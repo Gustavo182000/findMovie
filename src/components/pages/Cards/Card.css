@@ -1,0 +1,41 @@
+.card{
+    transition-duration: 1s;
+    width: 10rem;
+    background-color: #404258;
+    color: white;
+    text-align:left;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+.card:hover{
+    transition-duration: 1s;
+    width: 10.3rem;
+    
+    
+}
+
+.card-body{
+
+padding-top: 2px;
+padding-bottom: 17px;
+}
+
+.container{
+    margin-top: 10px;
+}
+
+.text-muted{
+
+   font-size: small;
+
+}
+
+.badge{
+    margin-top: 13px;
+    border: none;
+
+}
+
+img{
+    cursor: pointer;
+}

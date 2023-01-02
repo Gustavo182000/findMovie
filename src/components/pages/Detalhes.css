@@ -1,0 +1,26 @@
+h2{
+    color: aliceblue;
+    padding-bottom: 10px;
+}
+
+embed{
+    width: 45rem;
+    height: 25rem;
+    border-radius: 8px;
+
+}
+h5{
+    color: aliceblue;
+
+}
+
+.generos{
+    display: flex;
+    
+}
+
+h6{
+    padding-top: 4px;
+    padding-left: 10px;
+    color: #6c757d;
+}
